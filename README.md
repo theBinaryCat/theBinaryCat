@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anouar and this GitHub account is dedicated to my projects 👋
 - 👀 I’m interested in Software and Data Engineering and Business Intelligence
-- 🌱 I’m currently learning Data Analysis using SQL and Java programming language 
+- 🌱 I’m currently practicing Data Analysis using SQL on LeetCode and improving my OOP skills in Java programming language 
 - 💞️ I’m looking to collaborate on Data Projects
 - 📫 How to reach me: my email: aaissani571@gmail.com
 - 😄 Pronouns: She
